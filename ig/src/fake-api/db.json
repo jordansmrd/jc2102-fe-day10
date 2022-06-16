@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "location": "BSD",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/62278bc6897b081d1eef49ea/2022-BMW-i4-coup--electric-car/960x0.jpg?format=jpg&width=960",
+      "number_of_likes": 1234,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "location": "Jakarta",
+      "image_url": "https://cdn.motor1.com/images/mgl/kv0WY/s3/bmw-modellpflege-massnahmen-zum-sommer-2021.jpg",
+      "number_of_likes": 23123,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "location": "Bandung",
+      "image_url": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_crop,f_auto,fl_lossy,x_276,y_90,w_1320,h_988/w_744,h_558,c_fill/auto-client/fede2c14655c9c97e6c274c8dce66dcb/x7_landing_pages_1920x1080_01_37_.jpg",
+      "number_of_likes": 54354353,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "postId": 1
+    },
+    {
+      "username": "jordan",
+      "content": "asdsadsadsa",
+      "postId": 2,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "udin"
+    },
+    {
+      "id": 2,
+      "username": "jason"
+    },
+    {
+      "id": 3,
+      "username": "badra"
+    }
+  ]
+}
